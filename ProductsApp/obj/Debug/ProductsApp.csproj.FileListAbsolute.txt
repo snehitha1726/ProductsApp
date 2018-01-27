@@ -1,0 +1,17 @@
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\snehi\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
